@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 1999.0,
+    "image": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500",
+      "https://plus.unsplash.com/premium_photo-1678099940967-73fe30680949?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2lyZWxlc3MlMjBoZWFkcGhvbmVzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Watch",
+    "price": 3499.0,
+    "image": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Portable Bluetooth Speaker",
+    "price": 2499.0,
+    "image": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+      "https://plus.unsplash.com/premium_photo-1728978926426-18fdb1d00e8a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UG9ydGFibGUlMjBCbHVldG9vdGglMjBTcGVha2VyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "price": 699.0,
+    "image": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+      "https://plus.unsplash.com/premium_photo-1671611822374-4719df5c89bb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JTIyV2lyZWxlc3MlMjBNb3VzZSUyMnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500"
+
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 2999.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1664194583917-b0ba07c4ce2a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWVjaGFuaWNhbCUyMEtleWJvYXJkfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1602025882379-e01cf08baa51?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWVjaGFuaWNhbCUyMEtleWJvYXJkfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1626958390898-162d3577f293?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWVjaGFuaWNhbCUyMEtleWJvYXJkfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Laptop Cooling Pad",
+    "price": 1299.0,
+    "image": [
+     "https://images.unsplash.com/photo-1634947096506-6d9f114cf64e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JTIyTGFwdG9wJTIwQ29vbGluZyUyMFBhZCUyMnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://plus.unsplash.com/premium_photo-1661679012183-1a09fb88942f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8JTIyTGFwdG9wJTIwQ29vbGluZyUyMFBhZCUyMnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://media.istockphoto.com/id/2206033181/photo/laptop-cooling-pad-with-cream-in-hand-outstretched-hand-laptop-cooling-pad-isolated-from.webp?a=1&b=1&s=612x612&w=0&k=20&c=CSWKiPE3sK3ojLyplwjVNc4sPGx0EpszzlRhUmQL7iM=",
+      "https://images.unsplash.com/photo-1742830279735-c4e986d77fb3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JTIyTGFwdG9wJTIwQ29vbGluZyUyMFBhZCUyMnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "External Hard Drive 1TB",
+    "price": 4499.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1761241879137-e7d2c340f61d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RXh0ZXJuYWwlMjBIYXJkJTIwRHJpdmUlMjAxVEIzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1586187543706-b43086b30978?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RXh0ZXJuYWwlMjBIYXJkJTIwRHJpdmUlMjAxVEIzfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "USB-C Fast Charger",
+    "price": 999.0,
+    "image": [
+      "https://images.unsplash.com/photo-1762117314602-59c22d8f6eb0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VVNCLUMlMjBGYXN0JTIwQ2hhcmdlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Noise Cancelling Earbuds",
+    "price": 2799.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1723478486546-83ea7cf40e1b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Tm9pc2UlMjBDYW5jZWxsaW5nJTIwRWFyYnVkc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1659353671289-90ad6955f414?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Tm9pc2UlMjBDYW5jZWxsaW5nJTIwRWFyYnVkc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1733641839419-7b9de83d7a0e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Tm9pc2UlMjBDYW5jZWxsaW5nJTIwRWFyYnVkc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Smart LED Bulb",
+    "price": 499.0,
+    "image": [
+      "https://images.unsplash.com/photo-1752391702044-b3c75fde78bd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U21hcnQlMjBMRUQlMjBCdWxifGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500",
+      "https://media.istockphoto.com/id/514386360/photo/led-technology.webp?a=1&b=1&s=612x612&w=0&k=20&c=8CvMXYIE1CHJ0gAnKO4zObcNCWOqiZs_OwGdAhIMYmE="
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gaming Chair",
+    "price": 8999.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1678112179122-50605ebc5697?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8R2FtaW5nJTIwQ2hhaXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "4K Action Camera",
+    "price": 6999.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1710961233810-5350d81d4b20?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8NEslMjBBY3Rpb24lMjBDYW1lcmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1600333791066-f3c7e752b44e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8NEslMjBBY3Rpb24lMjBDYW1lcmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Tripod Stand",
+    "price": 899.0,
+    "image": [
+      "https://images.unsplash.com/photo-1592571148494-08b2c2253556?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VHJpcG9kJTIwU3RhbmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Wireless Game Controller",
+    "price": 2599.0,
+    "image": [
+      "https://images.unsplash.com/photo-1662355516417-202c7aca5109?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2lyZWxlc3MlMjBHYW1lJTIwQ29udHJvbGxlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://plus.unsplash.com/premium_photo-1723802528730-072330eea1b9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2lyZWxlc3MlMjBHYW1lJTIwQ29udHJvbGxlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Smartphone Gimbal",
+    "price": 5699.0,
+    "image": [
+      "https://images.unsplash.com/photo-1638243292863-3744d6a7e021?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U21hcnRwaG9uZSUyMEdpbWJhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Laptop Backpack",
+    "price": 1499.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1679314408041-45d1a3c45dee?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TGFwdG9wJTIwQmFja3BhY2t8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=500",
+      "https://plus.unsplash.com/premium_photo-1661481297670-7cb9e820bd1c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fExhcHRvcCUyMEJhY2twYWNrfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Wireless Charging Pad",
+    "price": 1199.0,
+    "image": [
+      "https://images.unsplash.com/photo-1633381638729-27f730955c23?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2lyZWxlc3MlMjBDaGFyZ2luZyUyMFBhZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Smart Plug WiFi",
+    "price": 899.0,
+    "image": [
+      "https://images.unsplash.com/photo-1617975316514-69cd7e16c2a4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U21hcnQlMjBQbHVnJTIwV2lGaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1758640265844-5da0c0a4b896?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U21hcnQlMjBQbHVnJTIwV2lGaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500",
+      "https://images.unsplash.com/photo-1596877445530-ad74838754c6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U21hcnQlMjBQbHVnJTIwV2lGaXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mini Projector",
+    "price": 7499.0,
+    "image": [
+      "https://plus.unsplash.com/premium_photo-1710522706863-71b117956d4b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Portable Power Bank 20000mAh",
+    "price": 2499.0,
+    "image": [
+      "https://images.unsplash.com/photo-1702347807611-2552e3308ba0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UG9ydGFibGUlMjBQb3dlciUyMEJhbmslMjAyMDAwMG1BaHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=500"
+    ]
+  }
+]
